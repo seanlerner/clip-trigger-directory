@@ -10,7 +10,7 @@
     "trigger_code": "ct"
   },
   "Hello World": {
-    "url": "",
+    "url": "https://github.com/seanlerner/hello-world-trigger",
     "description": "Hello, World!",
     "trigger_code": "hw"
   },
