@@ -1,0 +1,22 @@
+{
+  "Bacon Ipsum": {
+    "url": "",
+    "description": "Get Bacon Ipsum from the internet",
+    "trigger_code": "bc"
+  },
+  "Clip Trigger": {
+    "url": "",
+    "description": "Use Clip Trigger triggers to manage Clip Trigger",
+    "trigger_code": "ct"
+  },
+  "Hello World": {
+    "url": "",
+    "description": "Hello, World!",
+    "trigger_code": "hw"
+  },
+  "Spotify": {
+    "url": "",
+    "description": "Control Spotify",
+    "trigger_code": "sp"
+  }
+}
