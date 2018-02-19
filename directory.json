@@ -10,5 +10,11 @@
     "url": "https://github.com/seanlerner/hello-world-trigger",
     "description": "Displays Hello, World! in your system tray. Useful for testing Clip Trigger",
     "trigger_code": "hw"
+  },
+  "spotify-trigger": {
+    "name": "Spotify",
+    "url": "https://github.com/seanlerner/spotify-trigger",
+    "description": "Control Spotify with your clipboard.",
+    "trigger_code": "sp"
   }
 }
