@@ -8,13 +8,20 @@
   "hello-world-trigger": {
     "name": "Hello, World!",
     "url": "https://github.com/seanlerner/hello-world-trigger",
-    "description": "Displays Hello, World! in your system tray. Useful for testing Clip Trigger",
+    "description": "Displays Hello, World! in your system tray. Useful for testing.",
     "trigger_code": "hw"
   },
   "spotify-trigger": {
     "name": "Spotify",
     "url": "https://github.com/seanlerner/spotify-trigger",
-    "description": "Control Spotify with your clipboard.",
+    "description": "Control Spotify.",
     "trigger_code": "sp"
+  },
+  "wunderlist-trigger": {
+    "name": "Wunderlist",
+    "url": "https://github.com/seanlerner/wunderlist-trigger",
+    "description": "Add items to Wunderlist.",
+    "trigger_code": "wl"
   }
 }
+
